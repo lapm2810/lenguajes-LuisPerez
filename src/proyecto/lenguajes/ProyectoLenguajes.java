@@ -16,6 +16,6 @@ public class ProyectoLenguajes {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-System.out.println("mi primer programa feo");    }
+System.out.println("mi primer programa feo cambio 2");    }
     
 }
